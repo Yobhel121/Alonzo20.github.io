@@ -63,7 +63,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: eb245b6d0e57ee3864fd                            #生成的clientID
-  clientSecret: 6f980262f66d2b5a6e8b555d0fb6fc33ade69918    #生成的clientSecret
+  clientSecret: 7603098272d446b05014febe76d60ea64fc35966    #生成的clientSecret
   repo: Alonzo20.github.io    #仓库名称
   owner: Alonzo20    #github用户名
   admin: Alonzo20
