@@ -36,6 +36,7 @@
 	* [网站分析](#analytics) 
 * 高级部分
 	* [自定义](#customization)
+	* [自定义](#customization)
 	* [标题底图](#header-image)
 	* [搜索展示标题-头文件](#seo-title)
 
